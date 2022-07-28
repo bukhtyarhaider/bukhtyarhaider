@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @bukhtyarhaider
 - 😄 Pronouns me as `/bakh-tee-yaar/`
-- 💻 Full-stack [React Nativer](https://reactnative.dev/) Developer at [CreditBook](https://www.creditbook.pk/)
+- 💻 Full-stack [React Native](https://reactnative.dev/) Developer at [CreditBook](https://www.creditbook.pk/)
 - ⚡ Empowering eCommerce Businesses
 - 🏛 Founder at [ProntX](https://prontx.com/)
 - 🎓 CS Graduate of [Government College University Faisalabad](https://gcuf.edu.pk/)
