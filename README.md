@@ -6,19 +6,22 @@
 </a>
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+<div>
 <img align="right" alt="Developer Bukhtyar Haider" src="code.gif" width="500" height="320" />
-
+<div align="left">
 - 👋 Hi, I’m @bukhtyarhaider
-- 😄 Pronouns me as `/bakh-tee-yaar/`
+- 😄 pronounce me as `/bakh-tee-yaar/`
 - 💻 Full-stack [React Native](https://reactnative.dev/) Developer at [CreditBook](https://www.creditbook.pk/)
 - ⚡ Empowering eCommerce Businesses
 - 🏛 Founder at [ProntX](https://prontx.com/)
 - 🎓 CS Graduate of [Government College University Faisalabad](https://gcuf.edu.pk/)
 - 📱 +92341-0988683
 - 📫 bukhtyar.haider1@gmail.com where you can find me.
+<div>
+<div>
 
 
-
+<hr/>
 <p align="center"> Let's Connect 🔥</p>
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
