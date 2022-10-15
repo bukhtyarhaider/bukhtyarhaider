@@ -1,14 +1,23 @@
-![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=bukhtyarhaider.bukhtyarhaider) [![Nominate @bukhtyarhaider as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bukhtyarhaider?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/bukhtyarhaider?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/bukhtyarhaider/fluttercapsule?style=social"> 
+<div align="center">
 
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=bukhtyarhaider.bukhtyarhaider) [![Nominate @bukhtyarhaider as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/)
+
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bukhtyarhaider?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bukhtyarhaider?style=social">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/bukhtyarhaider/fluttercapsule?style=social">
 
 <a href="https://www.youtube.com/channel/UCbiT9U2zEDWourexKzxjREg?sub_confirmation=1">
-<img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social">
+<img alt="Subscribers" src="https://img.shields.io/youtube/views/vgdUdXEXILA?label=Subscribers&style=social">
 </a>
 
+<img alt="GitHub Star" height="20px" src="images/star.png"></a>
+
+</div>
+
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<div>
-<img align="right" alt="Developer Bukhtyar Haider" src="code.gif" width="500" height="320" />
-<div align="left">
+
+<img align="right" alt="Developer bukhtyar haider" src="images/coding.gif" width="300"/>
+
 - 👋 Hi, I’m @bukhtyarhaider
 - 😄 pronounce me as `/bakh-tee-yaar/`
 - 💻 Full-stack [React Native](https://reactnative.dev/) Developer at [CreditBook](https://www.creditbook.pk/)
@@ -17,12 +26,16 @@
 - 🎓 CS Graduate of [Government College University Faisalabad](https://gcuf.edu.pk/)
 - 📱 +92341-0988683
 - 📫 bukhtyar.haider1@gmail.com where you can find me.
-<div>
-<div>
 
+### 💡 Community Projects
 
-<hr/>
-<p align="center"> Let's Connect 🔥</p>
+- [EasyBuy](https://assignmento.org) `Ecommerce Cross Platform App`
+- [LinkedIn Clone](https://comsian.net) `Basic LinkedIn Clone`
+
+[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/bukhtyarhaider)
+
+<h2 align="center"> Let's Connect 🔥</h2>
+<div align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/bukhtyarhaider/">
@@ -50,9 +63,22 @@
 <a href="https://wa.me/03410988683?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20BUKHTYAR%20HAIDER%0AIBAN%3A%20PK80MUCB1143448611002899">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 
-## Tools & Technology 🛠
+</div>
+
+<br><h2 align="center"> Recent Projects 🚀</h2>
+
+### EasyBuy | Ecommerce Application
+
+> <img align="right" alt="easybuy" src="https://raw.githubusercontent.com/bukhtyarhaider/EasyBuy-Ecommerce-App/main/Source/assets/icon.png" height="200" />
+> Ecommerce is buying and selling that is conducted in an online environment, through an ecommerce application. An application is a software program designed to accomplish one or more tasks in a particular software environment. An ecommerce application is a software application that is specifically designed to support the creation of an ecommerce application or add functionality to it. Plug-ins and add-ons to ecommerce application software are included, but applications that don’t have specific ecommerce utility wouldn’t be considered. What is integral to one ecommerce app may not be needed at all for another. <a  href="https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App"><img align="right" src="images/googlePlay.gif" alt="easybuy App" height="50px" /></a> 'EasyBuy' come app with a complete solve to Ecommerce problems
+>
+> <br>[![Website](https://img.shields.io/badge/Source_Code?logo=google-chrome&logoColor=ffffff)](https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App)
+
+<br>
+
+<br><h2 align="center"> Tools & Technology 🛠</h2>
+
 <div align="center">
-<!-- <p align="center"></p> -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -70,7 +96,7 @@
 </div>
 <br>
 
-## GitHub Statistics 📈
+<br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukhtyarhaider&theme=dark&hide_title=true&include_all_commits=true"/>
@@ -78,12 +104,12 @@
 <div align="center">  
 <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=bukhtyarhaider"> <br><br> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=bukhtyarhaider&margin-w=15&margin-h=15" />
-<!-- [![Bukhtyar Haider Achievements](https://github-profile-trophy.vercel.app/?username=bukhtyarhaider&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=bukhtyarhaider&margin-w=15&margin-h=15) -->
 </div>
-<br><br>
-<p align="center">Open Source Contributor from <b>Jhang, Punjab, Pakistan</b> 🇵🇰 </p>
+<br>
 
-<!---
-bukhtyarhaider/bukhtyarhaider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Bukhtyar Haider Contributions](https://github.com/bukhtyarhaider/bukhtyarhaider/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
+<div align="center"><br>
+<p><a href="https://www.buymeacoffee.com/bukhtyarhaider"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
+</div>
