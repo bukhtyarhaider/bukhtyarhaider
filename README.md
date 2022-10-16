@@ -1,6 +1,6 @@
 <div align="center">
 
-![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=bukhtyarhaider.bukhtyarhaider) [![Nominate @bukhtyarhaider as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/)
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=bukhtyarhaider) [![Nominate @bukhtyarhaider as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/)
 
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bukhtyarhaider?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bukhtyarhaider?style=social">
@@ -72,7 +72,7 @@
 > <img align="right" alt="easybuy" src="https://raw.githubusercontent.com/bukhtyarhaider/EasyBuy-Ecommerce-App/main/Source/assets/icon.png" height="200" />
 > Ecommerce is buying and selling that is conducted in an online environment, through an ecommerce application. An application is a software program designed to accomplish one or more tasks in a particular software environment. An ecommerce application is a software application that is specifically designed to support the creation of an ecommerce application or add functionality to it. Plug-ins and add-ons to ecommerce application software are included, but applications that don’t have specific ecommerce utility wouldn’t be considered. What is integral to one ecommerce app may not be needed at all for another. <a  href="https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App"><img align="right" src="images/googlePlay.gif" alt="easybuy App" height="50px" /></a> 'EasyBuy' come app with a complete solve to Ecommerce problems
 >
-> <br>[![Website](https://img.shields.io/badge/Source_Code?logo=google-chrome&logoColor=ffffff)](https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App)
+> <br>[![Website](https://img.shields.io/badge/?logo=google-chrome&logoColor=ffffff)](https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App)
 
 <br>
 
