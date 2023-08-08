@@ -20,9 +20,10 @@
 
 - 👋 Hi, I’m @bukhtyarhaider
 - 😄 pronounce me as `/bakh-tee-yaar/`
-- 💻 Full-stack [React Native](https://reactnative.dev/) Developer at [CreditBook](https://www.creditbook.pk/)
+- 💻 Full stack [React Native](https://reactnative.dev/) Developer at [ProntX](https://prontx.com/)
+- 💻 X-Full stack [React Native](https://reactnative.dev/) Developer at [CreditBook](https://www.creditbook.pk/)
+- 💻 X-Associate Engineer at [System Limited](https://www.systemsltd.com/)
 - ⚡ Empowering eCommerce Businesses
-- 🏛 Founder at [ProntX](https://prontx.com/)
 - 🎓 CS Graduate of [Government College University Faisalabad](https://gcuf.edu.pk/)
 - 📱 +92341-0988683
 - 📫 bukhtyar.haider1@gmail.com where you can find me.
