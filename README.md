@@ -30,16 +30,14 @@
 
 - **Current Role:** Project Manager at [ProntX](https://prontx.com/)
 - **Previous Roles:**
+  - Team Lead at [ProntX](https://prontx.com/)
   - Full Stack [React Native](https://reactnative.dev/) Developer at [ProntX](https://prontx.com/)
   - X-Full Stack Developer at [CreditBook](https://www.creditbook.pk/)
   - Associate Engineer at [System Limited](https://www.systemsltd.com/)
 - **Passion:** Empowering eCommerce Businesses with end-to-end solutions
-- **Education:** CS Graduate from [Government College University Faisalabad](https://gcuf.edu.pk/)
 
 **Let's connect:**  
-📱 **Mobile:** +92 341-0988683  
 📧 **Email:** [bukhtyar.haider1@gmail.com](mailto:bukhtyar.haider1@gmail.com)
-
 ---
 
 ### 🚀 Community Projects
