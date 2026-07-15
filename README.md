@@ -85,6 +85,27 @@ DISCOVER  ──▶  DEFINE  ──▶  DESIGN  ──▶  BUILD  ──▶  MEA
 
 ---
 
+## Open-source lab
+
+Beyond the featured builds, I use open source to explore useful tools, playful interfaces, automation, and product ideas in public.
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [🦤 Dodo To-Do](https://github.com/bukhtyarhaider/dodo-todo) | Personality-driven mobile task manager with smart folders, voice input, haptics, and interactive home-screen widgets. | Expo, React Native, TypeScript |
+| [🕷️ SpellSpider](https://github.com/bukhtyarhaider/spellspider) · [Live ↗](https://spellspider.vercel.app) | AI website crawler that finds spelling and grammar issues and turns them into an actionable audit. | React, Gemini AI, TypeScript |
+| [🎨 Turquoise Editor](https://github.com/bukhtyarhaider/turquoise-editor) · [Live ↗](https://turquoise-editor.web.app/) | Browser-based image editor with background removal, text overlays, offline persistence, and high-resolution export. | React, Konva, TypeScript |
+| [🐦 HummiGrab](https://github.com/bukhtyarhaider/HummiGrab) | YouTube toolkit for downloads, transcripts, summaries, comment sentiment, and local history. | React, TypeScript, Flask |
+| [👻 Snapchat Friend Exporter](https://github.com/bukhtyarhaider/snapchat-friend-exporter) | Chrome extension that extracts Snapchat Web friend data and exports a filtered CSV with live progress. | JavaScript, Chrome Extension MV3 |
+| [📄 PDF2Pages](https://github.com/bukhtyarhaider/pdf2pages) | Converts PDF pages to downloadable PNG images with background progress tracking. | Python, Flask, pdf2image |
+| [🧭 Solvra](https://github.com/bukhtyarhaider/solvra) · [Live ↗](https://bukhtyarhaider.github.io/solvra/) | Practical, search-friendly guides for curious people across technology, hobbies, and small-business operations. | HTML, CSS, GitHub Pages |
+| [⚡ SnapCovery](https://github.com/bukhtyarhaider/SnapCovery) | Selenium automation experiment for streamlining Snapchat streak-recovery requests. | Python, Selenium |
+
+<div align="center">
+  <sub>Every repository is an invitation: use it, inspect it, improve it, or open an issue.</sub>
+</div>
+
+---
+
 ## My working stack
 
 <div align="center">
