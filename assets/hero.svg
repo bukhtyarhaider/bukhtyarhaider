@@ -1,0 +1,103 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bukhtyar Haider — Product leader and engineer</title>
+  <desc id="desc">Animated dark banner with glowing orbital paths, terminal details, and Bukhtyar Haider's professional positioning.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1120" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B14"/>
+      <stop offset="0.48" stop-color="#121327"/>
+      <stop offset="1" stop-color="#080A12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="310" y1="80" x2="920" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A00"/>
+      <stop offset="0.48" stop-color="#FF3D81"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="850" y1="50" x2="1110" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#45E3FF"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop stop-color="#FF3D81" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#FF3D81" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop stop-color="#45E3FF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#45E3FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="380" rx="28"/></clipPath>
+  </defs>
+
+  <style>
+    .orbit { stroke-dasharray: 12 18; animation: dash 18s linear infinite; }
+    .orbit.reverse { animation-direction: reverse; animation-duration: 24s; }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; }
+    .blink { animation: blink 1s steps(2, end) infinite; }
+    @keyframes dash { to { stroke-dashoffset: -300; } }
+    @keyframes pulse { 0%,100% { opacity:.4; } 50% { opacity:1; } }
+    @keyframes blink { 50% { opacity:0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <circle cx="340" cy="110" r="250" fill="url(#glowA)"/>
+    <circle cx="1010" cy="260" r="260" fill="url(#glowB)"/>
+    <rect x="-300" y="0" width="180" height="380" fill="url(#cyan)" opacity=".18" transform="skewX(-18)">
+      <animate attributeName="x" values="-300;1210;-300" keyTimes="0;0.52;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.45;0" keyTimes="0;.52;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity=".78">
+      <path class="orbit" d="M720 194C805 56 1046 32 1168 170" stroke="url(#cyan)" stroke-width="2"/>
+      <path class="orbit reverse" d="M690 298C824 178 1068 181 1212 314" stroke="url(#accent)" stroke-width="2"/>
+      <ellipse class="orbit" cx="1012" cy="189" rx="156" ry="106" transform="rotate(-18 1012 189)" stroke="#FFFFFF" stroke-opacity=".16"/>
+      <circle class="pulse" cx="1098" cy="88" r="7" fill="#45E3FF" filter="url(#softGlow)"/>
+      <circle class="pulse" cx="864" cy="286" r="6" fill="#FF3D81" filter="url(#softGlow)" style="animation-delay:-1.4s"/>
+      <circle class="pulse" cx="1137" cy="274" r="5" fill="#FFB547" filter="url(#softGlow)" style="animation-delay:-2.1s"/>
+    </g>
+
+    <g transform="translate(916 118)">
+      <rect width="198" height="112" rx="18" fill="#111526" stroke="#45E3FF" stroke-opacity=".38"/>
+      <circle cx="22" cy="19" r="4" fill="#FF5F57"/><circle cx="36" cy="19" r="4" fill="#FEBB2E"/><circle cx="50" cy="19" r="4" fill="#28C840"/>
+      <text x="18" y="52" fill="#8B93A7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">$ ship --idea</text>
+      <text x="18" y="75" fill="#45E3FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">strategy → product</text>
+      <text x="18" y="97" fill="#FFB547" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">status: LIVE</text>
+      <rect class="blink" x="105" y="88" width="7" height="11" rx="1" fill="#FFB547"/>
+    </g>
+
+    <g transform="translate(792 52)">
+      <rect width="88" height="34" rx="17" fill="#15182B" stroke="#FF3D81" stroke-opacity=".5"/>
+      <circle cx="18" cy="17" r="5" fill="#FF3D81"/>
+      <text x="31" y="21" fill="#E9EAF4" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700">BUILD</text>
+    </g>
+
+    <g transform="translate(74 64)">
+      <rect x="0" y="0" width="72" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="0" y="76" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1.8">BUKHTYAR HAIDER</text>
+      <text x="2" y="119" fill="#B6BACB" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">Product leader. Hands-on engineer. Relentless shipper.</text>
+      <text x="2" y="167" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">IDEA  →  SYSTEM  →  IMPACT</text>
+
+      <g transform="translate(0 210)">
+        <rect width="180" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+        <circle cx="23" cy="21" r="5" fill="#28C840"/>
+        <text x="38" y="27" fill="#E9EAF4" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">PRODUCT DELIVERY</text>
+        <rect x="192" width="154" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+        <text x="215" y="27" fill="#E9EAF4" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">AI + AUTOMATION</text>
+        <rect x="358" width="168" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+        <text x="383" y="27" fill="#E9EAF4" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">FULL-STACK BUILD</text>
+      </g>
+    </g>
+
+    <path d="M0 352C186 318 330 370 520 340C722 308 894 344 1200 302V380H0V352Z" fill="url(#accent)" opacity=".08"/>
+    <rect x="1" y="1" width="1198" height="378" rx="27" stroke="url(#accent)" stroke-opacity=".38" stroke-width="2"/>
+  </g>
+</svg>
