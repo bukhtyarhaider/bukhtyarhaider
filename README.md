@@ -1,171 +1,174 @@
 <div align="center">
-  <!-- Visitor & Social Badges -->
-  <a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white" alt="Nominate as GitHub Star" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/github/stars/bukhtyarhaider?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/bukhtyarhaider?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/forks/bukhtyarhaider/fluttercapsule?style=social" alt="GitHub Forks" />
-  <br /><br />
-  <a href="https://www.youtube.com/channel/UCbiT9U2zEDWourexKzxjREg?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/vgdUdXEXILA?label=Subscribers&style=social" alt="YouTube Subscribers" />
-  </a>
-</div>
 
----
-
-## Hello, I’m Bukhtyar Haider 👋
-
-> “Transforming innovative ideas into scalable solutions”  
-> <sub>Pronounced: `/bakh-tee-yaar/`</sub>
-
-<div align="center">
-  <img src="images/coding.gif" alt="Coding Animation" width="300" />
-</div>
-
----
-
-### 💼 Professional Snapshot
-
-- **Current Role:** Project Manager at [ProntX](https://prontx.com/)
-- **Previous Roles:**
-  - Team Lead at [ProntX](https://prontx.com/)
-  - Full Stack [React Native](https://reactnative.dev/) Developer at [ProntX](https://prontx.com/)
-  - X-Full Stack Developer at [CreditBook](https://www.creditbook.pk/)
-  - Associate Engineer at [System Limited](https://www.systemsltd.com/)
-- **Passion:** Empowering eCommerce Businesses with end-to-end solutions
-
-**Let's connect:**  
-📧 **Email:** [bukhtyar.haider1@gmail.com](mailto:bukhtyar.haider1@gmail.com)
----
-
-### 🚀 Community Projects
-
-- **[EasyBuy](https://assignmento.org)**  
-  A comprehensive eCommerce cross-platform app addressing modern shopping challenges.  
-  <a href="https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App">
-    <img src="images/googlePlay.gif" alt="EasyBuy App" height="50px" />
-  </a>
-
----
-
-### 🎉 Fun & Experimental Projects
-
-- **[SnapCovery](https://github.com/bukhtyarhaider/SnapCovery)**  
-  A Python-based automation tool using Selenium and ChromeDriver to recover lost Snapchat streaks automatically.
-
-- **[devflow](https://github.com/bukhtyarhaider/devflow)**  
-  A Next.js 15 powered alternative to StackOverflow, where developers discuss, debate, share, and learn.
-
-- **[biz-directory](https://github.com/bukhtyarhaider/biz-directory)**  
-  A collaborative platform for entrepreneurs to share business ideas, network, and connect with investors.
-
-- **HostelHub Series:**  
-  - **[HostelHub-Admin](https://github.com/bukhtyarhaider/HostelHub-Admin)**  
-    TypeScript based Admin Dashboard. *(Updated on Dec 5, 2024)*
-  - **[HostelHub-Warden](https://github.com/bukhtyarhaider/HostelHub-Warden)**  
-    TypeScript project for warden functionalities. *(Updated on Dec 2, 2024)*
-  - **[Hostelhub](https://github.com/bukhtyarhaider/Hostelhub)**  
-    The client-side project built with TypeScript, React, SCSS, and Firebase.
-
-- **[Airblink](https://github.com/bukhtyarhaider/Airblink)**  
-  A realtime open network chat application powered by Firebase Realtime Database.
-
-- **[LinkedIn Clone](https://comsian.net)**  
-  A basic yet powerful clone of LinkedIn showcasing essential networking functionalities.
-
-Explore more on my [GitHub Repositories](https://github.com/bukhtyarhaider?tab=repositories).
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/bukhtyarhaider)
-
----
-
-### 🛠 Skills & Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD" />
-</div>
+<img src="assets/hero.svg" width="100%" alt="Bukhtyar Haider — Product leader, hands-on engineer, relentless shipper" />
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukhtyarhaider&theme=dark&layout=compact&langs_count=20&hide_title=true" alt="Top Languages" />
+<a href="https://prontx.com/"><img src="https://img.shields.io/badge/Project_Manager-@_ProntX-FF8A00?style=for-the-badge&labelColor=11131F" alt="Project Manager at ProntX" /></a>
+<a href="https://www.linkedin.com/in/bukhtyar/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:bukhtyar.haider1@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bukhtyar" /></a>
+
+<br /><br />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=FF8A00&center=true&vCenter=true&width=820&lines=I+turn+ambiguous+ideas+into+products+people+can+use.;Product+strategy+%E2%86%92+engineering+execution+%E2%86%92+measurable+impact.;React+%7C+TypeScript+%7C+Mobile+%7C+AI+%7C+Automation.;Leading+teams+without+losing+touch+with+the+code." alt="Animated introduction" /></a>
+
+<p>
+  <strong>Product-minded builder based in Pakistan 🇵🇰</strong><br />
+  I lead delivery, shape product direction, and still enjoy getting close to the architecture and code.<br />
+  My sweet spot is where <strong>business goals, user experience, and engineering execution</strong> meet.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=bukhtyarhaider&style=flat-square&color=FF8A00&label=PROFILE+VISITS" alt="Profile visits" />
+<img src="https://img.shields.io/github/followers/bukhtyarhaider?style=flat-square&color=7C5CFF&labelColor=11131F&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/bukhtyarhaider?affiliations=OWNER&style=flat-square&color=45E3FF&labelColor=11131F&logo=github" alt="GitHub stars" />
+
 </div>
 
 ---
 
-### 📊 GitHub Statistics
+## What I bring to the table
+
+| 🧭 Product & delivery | ⚙️ Engineering | 🤖 AI & automation | 🛒 Commerce systems |
+| --- | --- | --- | --- |
+| Turn fuzzy goals into a clear roadmap, aligned team, and shippable milestones. | Build across web, mobile, APIs, data, and the seams between them. | Apply multimodal AI and workflow automation to real operational problems. | Design end-to-end experiences around discovery, conversion, operations, and scale. |
+
+```text
+DISCOVER  ──▶  DEFINE  ──▶  DESIGN  ──▶  BUILD  ──▶  MEASURE  ──▶  IMPROVE
+   user         scope       system       ship        signal        repeat
+```
+
+> I care about momentum, but never at the cost of clarity. The goal is not more output—it is the right outcome, shipped well.
+
+---
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚘 <a href="https://github.com/bukhtyarhaider/carscube-ai">Carscube AI</a></h3>
+      <p><strong>From a vehicle photo to a structured damage report.</strong></p>
+      <p>Uses multimodal AI to detect visible damage, classify severity, estimate repair costs, and produce exportable reports.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Gemini 2.5</code> <code>Recharts</code> <code>PDF</code></p>
+      <a href="http://carscube.com/"><strong>Live product ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/bukhtyarhaider/turbo-typer">Turbo Typer</a></h3>
+      <p><strong>A typing racer where every keystroke controls the car.</strong></p>
+      <p>Real-time WPM-powered physics, typo-generated obstacles, power-ups, sound, and a joyful comic-book interface.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Canvas API</code> <code>Web Audio</code></p>
+      <a href="https://turbo-typer-pro.vercel.app/"><strong>Play the game ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ <a href="https://github.com/bukhtyarhaider/Indexic">Indexic</a></h3>
+      <p><strong>A premium project indexing workspace.</strong></p>
+      <p>Imports repositories from GitHub, organizes projects with smart filters, and keeps portfolio data portable.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>GitHub</code></p>
+      <a href="https://indexic.vercel.app"><strong>Open Indexic ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/bukhtyarhaider/EasyBuy-Ecommerce-App">EasyBuy</a></h3>
+      <p><strong>Open-source cross-platform commerce.</strong></p>
+      <p>A mobile shopping experience that demonstrates product thinking across catalog, customer journey, and app delivery.</p>
+      <p><code>React Native</code> <code>JavaScript</code> <code>Mobile</code> <code>eCommerce</code></p>
+      <img src="https://img.shields.io/github/stars/bukhtyarhaider/EasyBuy-Ecommerce-App?style=flat-square&color=FF8A00" alt="EasyBuy stars" />
+      <img src="https://img.shields.io/github/forks/bukhtyarhaider/EasyBuy-Ecommerce-App?style=flat-square&color=7C5CFF" alt="EasyBuy forks" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bukhtyarhaider&theme=dark&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/bukhtyarhaider?tab=repositories"><strong>Explore all repositories →</strong></a>
 </div>
 
 ---
 
-### 🌟 Fun Zone
+## My working stack
 
 <div align="center">
-  <!-- Coding Quote -->
-  <h3>Coding Quote of the Day</h3>
-  <a href="https://github.com/lukePeavey/quotable">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark&layout=default" alt="Coding Quote" />
-  </a>
+
+**Product & leadership**
+
+`Product discovery` · `Roadmaps` · `Technical scoping` · `Agile delivery` · `Team leadership` · `Stakeholder alignment`
+
+**Web & mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,dart,html,css,tailwind,vite&perline=10" alt="Web and mobile technologies" />
+
+**Backend, data & automation**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,supabase,mongodb,postgres,selenium&perline=7" alt="Backend, data, and automation technologies" />
+
+**Build, design & ship**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,figma,postman&perline=7" alt="Build and delivery tools" />
+
 </div>
 
 ---
 
-### 🤝 Let's Connect
+## The journey so far
+
+<details open>
+<summary><strong>Project Manager · ProntX</strong></summary>
+<br />
+Leading projects from idea to launch—aligning stakeholders, translating business needs into technical plans, unblocking teams, and keeping quality visible throughout delivery.
+</details>
+
+<details>
+<summary><strong>Team Lead & Full-Stack React Native Developer · ProntX</strong></summary>
+<br />
+Led engineers while building cross-platform products hands-on, bridging delivery decisions with the realities of implementation.
+</details>
+
+<details>
+<summary><strong>Full-Stack Developer · CreditBook</strong></summary>
+<br />
+Worked across product surfaces and engineering layers in a fast-moving fintech environment.
+</details>
+
+<details>
+<summary><strong>Associate Engineer · Systems Limited</strong></summary>
+<br />
+Built the engineering foundation that still shapes how I approach systems, teams, and dependable delivery.
+</details>
+
+---
+
+## GitHub pulse
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/bukhtyarhaider/">
-    <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff" alt="GitHub" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCbiT9U2zEDWourexKzxjREg?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=ffffff" alt="YouTube" />
-  </a>
-  <a href="https://www.linkedin.com/in/bukhtyar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/bukhtyar.haider/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff" alt="Facebook" />
-  </a>
-  <a href="https://www.twitter.com/bukhtyarhaider1/">
-    <img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/bukhtyar_/">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff" alt="Instagram" />
-  </a>
-  <a href="https://www.google.com/search?q=bukhtyar+haider">
-    <img src="https://img.shields.io/badge/Reviews-211F1F?style=for-the-badge&logo=google&logoColor=ffffff" alt="Google Reviews" />
-  </a>
-  <a href="https://ask.fm/bukhtyar">
-    <img src="https://img.shields.io/badge/ASK.fm-DB3552?style=for-the-badge&logo=askfm&logoColor=ffffff" alt="Ask.fm" />
-  </a>
-  <a href="mailto:bukhtyar.haider1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
-  </a>
-  <a href="https://m.me/bukhtyar.haider/">
-    <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff" alt="Messenger" />
-  </a>
-  <a href="https://wa.me/03410988683?text=%23Github">
-    <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff" alt="WhatsApp" />
-  </a>
-  <a href="https://wa.me/03410988683?text=Thank%20you%20for%20supporting%20me">
-    <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff" alt="Support Developer" />
-  </a>
+  <p><em>A live trail of public building, experiments, and shipped ideas.</em></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bukhtyarhaider&bg_color=0D1117&color=C9D1D9&line=FF8A00&point=45E3FF&area=true&hide_border=true" width="96%" alt="Bukhtyar's contribution graph" />
+</div>
+
+---
+
+## Let's build something useful
+
+<div align="center">
+
+If you are building a product that needs **clear thinking, technical judgment, and strong delivery**, I would love to hear about it.
+
+<a href="mailto:bukhtyar.haider1@gmail.com"><img src="https://img.shields.io/badge/Email-bukhtyar.haider1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bukhtyar" /></a>
+<a href="https://www.linkedin.com/in/bukhtyar/"><img src="https://img.shields.io/badge/LinkedIn-Bukhtyar_Haider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bukhtyar on LinkedIn" /></a>
+<a href="https://www.youtube.com/channel/UCbiT9U2zEDWourexKzxjREg?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Bukhtyar on YouTube" /></a>
+<a href="https://x.com/bukhtyarhaider1"><img src="https://img.shields.io/badge/X-@bukhtyarhaider1-000000?style=for-the-badge&logo=x&logoColor=white" alt="Bukhtyar on X" /></a>
+
+<br /><br />
+
+<details>
+<summary>⚡ <strong>Developer mode: unlocked</strong></summary>
+<br />
+<code>while (idea.isWorthBuilding()) { clarify(); prototype(); ship(); learn(); }</code>
+<br /><br />
+Pronounced <code>/bakh-tee-yaar/</code> — now you know how to say hello. 👋
+</details>
+
+<br />
+
+<sub>Designed to communicate signal, not noise. Built with curiosity, caffeine, and a bias toward shipping.</sub>
+
 </div>
