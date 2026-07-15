@@ -85,6 +85,51 @@ DISCOVER  ──▶  DEFINE  ──▶  DESIGN  ──▶  BUILD  ──▶  MEA
 
 ---
 
+## Products built behind private repositories
+
+Some of my strongest work lives in private client and product repositories. The source stays confidential; these public experiences show the product thinking, engineering range, and delivery quality behind it.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://contenttree.vercel.app">ContentTree</a></h3>
+      <p><strong>An exclusive short-form content marketplace and operations platform.</strong></p>
+      <p>Role-based workflows for creators, buyers, and administrators across media processing, licensing, purchases, libraries, repayments, and audit trails.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>FFmpeg</code></p>
+      <a href="https://contenttree.vercel.app"><strong>View product ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 <a href="https://the-e-brokerage-group.vercel.app">E Brokerage Group</a></h3>
+      <p><strong>A search-led freight brokerage and quote experience.</strong></p>
+      <p>Service journeys for FTL, LTL, hotshot, and refrigerated freight, backed by structured data, technical SEO, analytics, and conversion-focused UX.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>SEO</code> <code>Lead generation</code></p>
+      <a href="https://the-e-brokerage-group.vercel.app"><strong>Visit website ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://exps-appliance-installers.vercel.app">EXPS Appliance Installers</a></h3>
+      <p><strong>A local-search growth engine for a home-services business.</strong></p>
+      <p>Location and service landing pages, quote capture, LocalBusiness schema, sitemaps, and reusable content architecture for regional discovery.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Local SEO</code> <code>JSON-LD</code></p>
+      <a href="https://exps-appliance-installers.vercel.app"><strong>Visit website ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://flux-sigma-plum.vercel.app">FLUX Tactical CGM Shield</a></h3>
+      <p><strong>An immersive product launch experience for health-tech hardware.</strong></p>
+      <p>Animated storytelling, technical specifications, product comparison, social proof, responsive interactions, and waitlist conversion.</p>
+      <p><code>Next.js</code> <code>Framer Motion</code> <code>Product design</code> <code>Conversion</code></p>
+      <a href="https://flux-sigma-plum.vercel.app"><strong>View experience ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub>Private by design. Public outcomes, architecture stories, and references are available where client confidentiality allows.</sub>
+</div>
+
+---
+
 ## Open-source lab
 
 Beyond the featured builds, I use open source to explore useful tools, playful interfaces, automation, and product ideas in public.
